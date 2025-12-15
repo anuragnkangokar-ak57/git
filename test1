@@ -1,4 +1,1 @@
-Hi
-I'm 
-doing
-devops
+print("Hello world")
